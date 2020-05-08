@@ -43,7 +43,7 @@ You need to make a Github account!
 6. You'll be taken to the *Create a new repository* page but we are going to do this in a later step. You can skip that for now.
 7. Click the icon in the top left corner, and then select *Signed in as [your username]* on the drop-down menu. You're now looking at your Github account!
 
-![Session%201%20Github%20697b6fa1c1184e23b132b92195b3da43/mygithub.png](Session%201%20Github%20697b6fa1c1184e23b132b92195b3da43/mygithub.png)
+![](mygithub.png)
 
 For example, this is my Github account! It displays my repositories, contribution history, and organizations. 
 
@@ -58,7 +58,7 @@ For example, this is my Github account! It displays my repositories, contributio
 1. On the top, there is a tab that says *Repositories.* Go ahead and click that; there won't be anything there yet, but we'll change that now!
 2. On the right side of the page, there is a green button that says *New*. Click that, and you'll see this page:
 
-![Session%201%20Github%20697b6fa1c1184e23b132b92195b3da43/new-repo.png](Session%201%20Github%20697b6fa1c1184e23b132b92195b3da43/new-repo.png)
+![](new-repo.png)
 
 3. For *Repository name*, you should enter:
 
@@ -84,7 +84,7 @@ There's a big, green button on the left-hand side of the repository page that sa
 
 Then, open a *command-line interface.* On my Mac, it's called *Terminal,* and it looks like this:
 
-![Session%201%20Github%20697b6fa1c1184e23b132b92195b3da43/terminal.png](Session%201%20Github%20697b6fa1c1184e23b132b92195b3da43/terminal.png)
+![](terminal.png)
 
 You just open it like you would any other app.
 
