@@ -8,10 +8,9 @@
 
 - What is Git / Github? How are they different?
 - Why version control is important for long-term development
-- How to download Git (if necessary)
 - How to set up a personal Github account
 - What is a repository?
-    - What does `git clone` do? → How to clone `swe-wit.github.io`
+    - What does `git clone` do? → How to clone your repository
 
 ---
 
