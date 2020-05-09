@@ -20,7 +20,7 @@
 
 **Github** is an online hosting system for Git projects. 
 
-Both are examples of version control software**.** 
+Both are examples of version control software. 
 
 → **Version control** is an important part of code development. There's many reasons that long-term projects require version control:
 
